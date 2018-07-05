@@ -1,0 +1,10 @@
+C:\Users\jdfid\documents\visual studio 2017\Projects\OperationsWF\OperationsWF\bin\Debug\Positions.exe.config
+C:\Users\jdfid\documents\visual studio 2017\Projects\OperationsWF\OperationsWF\bin\Debug\Positions.exe
+C:\Users\jdfid\documents\visual studio 2017\Projects\OperationsWF\OperationsWF\bin\Debug\Positions.pdb
+C:\Users\jdfid\documents\visual studio 2017\Projects\OperationsWF\OperationsWF\obj\Debug\Positions.UI.ClosePositionForm.resources
+C:\Users\jdfid\documents\visual studio 2017\Projects\OperationsWF\OperationsWF\obj\Debug\OperationsWF.Form1.resources
+C:\Users\jdfid\documents\visual studio 2017\Projects\OperationsWF\OperationsWF\obj\Debug\Positions.Properties.Resources.resources
+C:\Users\jdfid\documents\visual studio 2017\Projects\OperationsWF\OperationsWF\obj\Debug\OperationsWF.csproj.GenerateResource.Cache
+C:\Users\jdfid\documents\visual studio 2017\Projects\OperationsWF\OperationsWF\obj\Debug\Positions.exe
+C:\Users\jdfid\documents\visual studio 2017\Projects\OperationsWF\OperationsWF\obj\Debug\Positions.pdb
+C:\Users\jdfid\documents\visual studio 2017\Projects\OperationsWF\OperationsWF\obj\Debug\OperationsWF.csprojResolveAssemblyReference.cache

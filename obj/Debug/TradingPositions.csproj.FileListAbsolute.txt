@@ -1,0 +1,11 @@
+D:\Nuvens\GitHub\TradingPositions\bin\Debug\Positions.exe.config
+D:\Nuvens\GitHub\TradingPositions\bin\Debug\Positions.exe
+D:\Nuvens\GitHub\TradingPositions\bin\Debug\Positions.pdb
+D:\Nuvens\GitHub\TradingPositions\obj\Debug\TradingPositions.csprojAssemblyReference.cache
+D:\Nuvens\GitHub\TradingPositions\obj\Debug\Positions.UI.ClosePositionForm.resources
+D:\Nuvens\GitHub\TradingPositions\obj\Debug\OperationsWF.Form1.resources
+D:\Nuvens\GitHub\TradingPositions\obj\Debug\Positions.Properties.Resources.resources
+D:\Nuvens\GitHub\TradingPositions\obj\Debug\TradingPositions.csproj.GenerateResource.cache
+D:\Nuvens\GitHub\TradingPositions\obj\Debug\TradingPositions.csproj.CoreCompileInputs.cache
+D:\Nuvens\GitHub\TradingPositions\obj\Debug\Positions.exe
+D:\Nuvens\GitHub\TradingPositions\obj\Debug\Positions.pdb
